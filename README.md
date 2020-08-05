@@ -34,7 +34,7 @@ websites data.
 
 ➢ Made a rough image of what to say via infographics.
 
-➢ Created charts by using tableau, Power BI, and Microsoft Excel.
+➢ Created charts by using Tableau, Power BI, and Microsoft Excel.
 
 ➢ Designed an A3 Size (297*420 mm) background image related to pizza with
 use of Adobe Photoshop.
