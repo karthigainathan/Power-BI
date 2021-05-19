@@ -1,0 +1,22 @@
+DAX FILTER Function
+
+
+To filter words in the rows
+
+Positive Sentiments = CALCULATE(Count(Review[sentiment.polarity]), FILTER(Review, Review[sentiment.polarity] = "positive")) + 0
+Neutral Sentiments = CALCULATE(Count(Review[sentiment.polarity]), FILTER(Review, Review[sentiment.polarity] = "neutral"))
+Negative Sentiments = CALCULATE(Count(Review[sentiment.polarity]), FILTER(Review, Review[sentiment.polarity] = "negative"))
+
+
+Postive% = [Positive Sentiment]/ COUNT('Review Aspects'[Polarity])
+Negative% = [Negative Sentiments]/ COUNT('Review Aspects'[Polarity])
+Neutral% = [Neutral Sentiments]/ COUNT('Review Aspects'[Polarity])
+
+#Finding PolarityIndex
+PolarityIndex = if(exact(Review[sentiment.polarity], "positive"), 1, if(exact(Review[sentiment.polarity], "negative"), -1, 0))
+
+
+Onboarded Date = CALCULATE (
+    FIRSTNONBLANK ( ClientVenue[Onboarded Date], 1 ),
+    FILTER ( ALL ( ClientVenue ), Clientvenue[Venue Id] = Venue[Venue Id] )
+)
