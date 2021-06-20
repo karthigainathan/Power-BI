@@ -24,5 +24,5 @@ https://community.powerbi.com/t5/Data-Stories-Gallery/App-Store-Vs-Play-Store/m-
 𝗡𝗲𝘁𝗳𝗹𝗶𝘅
 https://community.powerbi.com/t5/Data-Stories-Gallery/Netflix/m-p/1820428
 
-Apple Business Analysis
+𝗔𝗽𝗽𝗹𝗲 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
 https://community.powerbi.com/t5/Data-Stories-Gallery/Apple-Business-Analysis/m-p/1910290
