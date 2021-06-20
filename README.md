@@ -23,3 +23,6 @@ https://community.powerbi.com/t5/Data-Stories-Gallery/App-Store-Vs-Play-Store/m-
 
 𝗡𝗲𝘁𝗳𝗹𝗶𝘅
 https://community.powerbi.com/t5/Data-Stories-Gallery/Netflix/m-p/1820428
+
+Apple Business Analysis
+https://community.powerbi.com/t5/Data-Stories-Gallery/Apple-Business-Analysis/m-p/1910290
