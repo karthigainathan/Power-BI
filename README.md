@@ -26,3 +26,6 @@ https://community.powerbi.com/t5/Data-Stories-Gallery/Netflix/m-p/1820428
 
 𝗔𝗽𝗽𝗹𝗲 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
 https://community.powerbi.com/t5/Data-Stories-Gallery/Apple-Business-Analysis/m-p/1910290
+
+Food Delivery Service 
+https://community.powerbi.com/t5/Data-Stories-Gallery/Food-Delivery-Service/m-p/2047154#M5714
