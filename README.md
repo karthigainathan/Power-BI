@@ -29,3 +29,6 @@ https://community.powerbi.com/t5/Data-Stories-Gallery/Apple-Business-Analysis/m-
 
 Food Delivery Service 
 https://community.powerbi.com/t5/Data-Stories-Gallery/Food-Delivery-Service/m-p/2047154#M5714
+
+Olympics 2020
+https://community.powerbi.com/t5/Data-Stories-Gallery/Tokyo-Olympics-2020/m-p/2079591#M5799
